@@ -1,6 +1,6 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: '404: Thought Not Found',
+  title: 'Rafael Framil | Blog',
   author: 'Rafael Framil',
   headerTitle: '',
   description: 'This is my personal space to share my thoughts and projects.',
